@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: turbine-server
+turbine:
+  appConfig: hystrix-demo2
+
